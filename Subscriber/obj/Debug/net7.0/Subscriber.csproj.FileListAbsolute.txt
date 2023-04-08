@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\saga\Subscriber\bin\Debug\net7.0\Subscriber.exe
+C:\Users\Ahmed\Desktop\saga\Subscriber\bin\Debug\net7.0\Subscriber.deps.json
+C:\Users\Ahmed\Desktop\saga\Subscriber\bin\Debug\net7.0\Subscriber.runtimeconfig.json
+C:\Users\Ahmed\Desktop\saga\Subscriber\bin\Debug\net7.0\Subscriber.dll
+C:\Users\Ahmed\Desktop\saga\Subscriber\bin\Debug\net7.0\Subscriber.pdb
+C:\Users\Ahmed\Desktop\saga\Subscriber\obj\Debug\net7.0\Subscriber.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\saga\Subscriber\obj\Debug\net7.0\Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\saga\Subscriber\obj\Debug\net7.0\Subscriber.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\saga\Subscriber\obj\Debug\net7.0\Subscriber.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\saga\Subscriber\obj\Debug\net7.0\Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\saga\Subscriber\obj\Debug\net7.0\Subscriber.dll
+C:\Users\Ahmed\Desktop\saga\Subscriber\obj\Debug\net7.0\refint\Subscriber.dll
+C:\Users\Ahmed\Desktop\saga\Subscriber\obj\Debug\net7.0\Subscriber.pdb
+C:\Users\Ahmed\Desktop\saga\Subscriber\obj\Debug\net7.0\Subscriber.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\saga\Subscriber\obj\Debug\net7.0\ref\Subscriber.dll
